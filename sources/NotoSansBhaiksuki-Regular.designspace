@@ -68,11 +68,11 @@
             </array>
             <array>
               <string>winDescent</string>
-              <integer>460</integer>
+              <integer>630</integer>
             </array>
             <array>
               <string>winAscent</string>
-              <integer>960</integer>
+              <integer>995</integer>
             </array>
             <array>
               <string>xHeight</string>
