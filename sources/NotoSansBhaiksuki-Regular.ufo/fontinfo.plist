@@ -79,9 +79,9 @@
     <key>openTypeOS2VendorID</key>
     <string>GOOG</string>
     <key>openTypeOS2WinAscent</key>
-    <integer>960</integer>
+    <integer>995</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>460</integer>
+    <integer>630</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-15</integer>
